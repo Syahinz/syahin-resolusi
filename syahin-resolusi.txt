@@ -3,4 +3,4 @@ SYAHIN RESOLUSI
 -ngerti machine learning
 -bisa fisika
 -konsisten bikin podcast
--bikin project
+-bikin game
